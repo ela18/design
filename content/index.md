@@ -1,25 +1,31 @@
 ---
-title: "Min fina titel"
+title: "Me-sidan"
+views:
+    byline:
+        region: main
+        template: anax/v2/block/default
+        sort: 2
+        data:
+            meta:
+                type: single
+                route: block/byline
 ---
 Min me-sida i kursen design
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/library1.jpg?w=350" class="right" caption="I kunskapens labyrint"]
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+Detta är min me-sida i kursen Design och denna sidan innehåller en kort presentation av mig själv:
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Jag heter Ela, bor i Stockholm och arbetar sedan många år som bibliotekarie
+på olika forskningsbibliotek.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Jag har studerat mycket och länge - först litteraturhistoria och språkvetenskap i München,
+sedan biblioteks- och informationsvetenskap i Borås, men är superglad att äntligen få börja
+studera data och Programmering, något som jag sedan länge velat göra.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Biblioteken kräver allt mer IT-kompetens från sina medarbetare, och med de här kurspaketen
+hoppas jag få en inspirerande och rolig kompetensutveckling.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Jag tycker jätte mycket om att läsa språk och hoppas den här språkläslusten kommer kan vara till gagn även
+vid studium av programmeringsspråken.

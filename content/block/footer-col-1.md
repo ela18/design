@@ -1,3 +1,7 @@
-#### Footer col 1
+#### Kontakt
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Ela Klayman-Cohen
+
+Telefon: 070-777 56 60
+
+Mejl: elaklay@gmail.com

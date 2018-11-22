@@ -1,3 +1,6 @@
-#### Footer col 3
+#### Hjälp med koden via
+[JSFiddle](http://jsfiddle.net/)
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[CodePen](https://codepen.io/)
+
+[Codeshare](https://codeshare.io/)

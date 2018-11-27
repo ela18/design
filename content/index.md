@@ -13,7 +13,7 @@ views:
 Min me-sida i kursen design
 =========================
 
-[FIGURE src="image/library1.jpg?w=350" class="right" caption="I kunskapens labyrint"]
+[FIGURE src="image/library.jpg?w=350" class="right" caption="I kunskapens labyrint"]
 
 Detta är min me-sida i kursen Design och denna sidan innehåller en kort presentation av mig själv:
 

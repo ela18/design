@@ -17,7 +17,7 @@ views:
                 route: block/om-redovisa
 ---
 Om
-=========================
+------
 
 De här webbsidorna är övningssidor inom kursen Design. Här testas och lärs olika
 tekniker med vars hjälp man som programmerare effektivt kan förbereda sin webbplats

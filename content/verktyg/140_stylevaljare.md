@@ -1,5 +1,5 @@
 Styleväljare
-===========================
+------------
 
 När man jobbar med olika stylesheets för en webbplats så är det bra att ha en enkel möjlighet att skifta mellan olika stylesheets.
 

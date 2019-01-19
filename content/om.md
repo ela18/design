@@ -23,5 +23,4 @@ De här webbsidorna är övningssidor inom kursen Design. Här testas och lärs 
 tekniker med vars hjälp man som programmerare effektivt kan förbereda sin webbplats
 för design och användbarhet.
 
-
-[FIGURE src=image/sol.jpg?w=500 caption="Det klarnar väl snart."]
+[FIGURE src=image/sol.jpg?w=500 class="sol" caption="Det klarnar väl snart."]

@@ -50,6 +50,11 @@ return [
             "title" => "Verktyg och möjligheter för utveckling.",
         ],
         [
+            "text" => "Rapport",
+            "url" => "rapport",
+            "title" => "Rapporterna inom kursen Design.",
+        ],
+        [
             "text" => "Testsida",
             "url" => "test",
             "title" => "Testa olika verktyg och konstruktioner.",
